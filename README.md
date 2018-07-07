@@ -1,6 +1,10 @@
 # Jaumo ML task
 
-I created the solution in [jupter notebook](jaumo_ml_task.ipynb) because I think it was appropriate for this kind of task.
+ - [Assignment](JaumoMLHomework.md)
+ - [Answers](Answers.md)
+ - [Solution](jaumo_ml_task.ipynb)
+
+I created the solution in jupyter notebook because I think it was appropriate for this kind of task.
 
 Solution is split into four parts - data analysis, preparing data, training model and evaluation.
 
