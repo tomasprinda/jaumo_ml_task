@@ -3,7 +3,7 @@
   - About 3 hours.
 - What would you add to your solution if you had more time? If you did not spend much time on the assignment, then use this as an opportunity to explain what you would add.
   - I would test more models and done some hyperparameter tuning, but model had a 100% f1 measure so it was not neccessaty.
-  - For real task I would probably split the data to train/dev/test split so that I don't overfit to dev set. I would use
+  - For real task I would probably split the data to train/dev/test split so that I don't overfit to dev set during development. I would
   print the results on test set before release to  estimate the performance in production.
   -  I would use scaler in case of using other types of model, but random forrest doesn't require that.
   - I would remove features with low importace to simplify the model.
